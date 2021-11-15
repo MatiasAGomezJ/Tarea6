@@ -13,7 +13,7 @@ El cual lo duplicamos en nuestro git, usando la función ***fork***.
 ![](./src/1.png)
 <br>
 
-## **2n paso: HACEMOS LAS MODIFICACIONES EN NUESTRA RAMITA**
+## **2n paso: HACEMOS LAS MODIFICACIONES EN NUESTRA REPO DUPLICADA DE MATIAS**
 
 ### En mi caso, he escogido crear 5 archivos markdown (ej: ***touch file1.md***)y editando su contenido con ***vim file1.md***
 ![](./src/2.png)
