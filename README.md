@@ -38,7 +38,10 @@ El cual lo duplicamos en nuestro git, usando la función ***fork***.
 
 ---
 # VIDEO:
-Debido al tamaño del video que excede lo permitido para Git, lo subo en formato zip. 
+
+
+https://user-images.githubusercontent.com/91556932/141871308-66ea1d6a-931d-4e5b-8f7d-6c70c73081f0.mov
+
 
 ---
 # FIN TAREA 5
